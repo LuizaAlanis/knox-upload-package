@@ -7,7 +7,7 @@
 ### Clone project
 
 <pre>
-
+git@github.com:LuizaAlanis/knox-upload-package.git
 </pre>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
